@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://omarAboElWafa:192.168.1.1@devq-jqbyd.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtToken": "adminHakonaMatata"
+  "jwtToken": "adminHakonaMatata",
+  "githubClientId": "5096e4b1176eb390bcdc",
+  "githubSecret": "3ac19da8a6786b31227993bcf6771f97a0a4b29f"
 }
